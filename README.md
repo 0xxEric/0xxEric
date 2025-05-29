@@ -8,6 +8,7 @@ Here is my technical sharing content.<br>
 - Research on various FFT:
   - [Vedio](https://youtu.be/MHYRgMKv4MU)
   - [Note](https://hackmd.io/@Dt_nNFZZRDmdFriUTBb_gw/Hkqz0Wg9yl)
+  - [Plonky3 notebook](https://github.com/coset-io/plonky3-python-notebook/tree/main/fft)
 - CircleSTARK demo:
   - [Vedio](https://www.youtube.com/watch?v=ur3c4mIi1Jc&list=PLbQFt1T_44DylxPQWM1OgVRlbyriKeXqk)
   - [PPT1](https://drive.google.com/file/d/10CnlRpissoUj7GF-wwHaEcQLN7vb4VqC/view?usp=sharing)
